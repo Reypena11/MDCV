@@ -28,7 +28,7 @@ Health and health outcome disparities among disadvantaged low social economic st
 
 ## Fellowships 
 
-'2020' 	
+`2020' 	
 __Current Randall Lewis Health & Policy Fellow__
  	
 
