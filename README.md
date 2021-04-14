@@ -4,7 +4,7 @@ title: RPCV
 ---
 
 # Reyna Peña-Calvillo 
-1815 S Westside Dr Anaheim, CA 92805| 951-310-1224| rpena013@ucr.edu
+1815 S Westside Dr Anaheim, CA 92805| 951-310-1224| *rpena013@ucr.edu*
 
 # Education 
 
@@ -28,8 +28,7 @@ Health and health outcome disparities among disadvantaged low social economic st
 
 ## Fellowships 
 
-`2020' 	
-__Current Randall Lewis Health & Policy Fellow__
+2020- _Current Randall Lewis Health & Policy Fellow
  	
 
 2018- 2019	California Center for Ethics and Policy Fellow 
