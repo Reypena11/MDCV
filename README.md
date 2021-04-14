@@ -14,10 +14,9 @@ Master of Public Policy
 '2019' California State Polytechnic University, Pomona, CA 
 Bachelors in Arts, Political Science 
 
-2017	
-#### Norco College, Norco, CA 
-Associates in Social and Behavioral Studies 
-Associates in Political Science 
+2017	Norco College, Norco, CA 
+-Associates in Social and Behavioral Studies 
+-Associates in Political Science 
 
 ## Research Interest 
 
@@ -29,7 +28,7 @@ Health and health outcome disparities among disadvantaged low social economic st
 
 ## Fellowships 
 
- 2020 	Current Randall Lewis Health & Policy Fellow 
+'2020' 	Current Randall Lewis Health & Policy Fellow 
  	
 
 2018- 2019	California Center for Ethics and Policy Fellow 
