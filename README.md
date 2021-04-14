@@ -29,8 +29,8 @@ current	Analyses of University Business Development Programs. Research Assistant
 
 ## Fellowships 
 
-2020-		Randall Lewis Health & Policy Fellow 
-current 	
+2020-		 Randall Lewis Health & Policy Fellow 
+Current 	
 
 2018-		California Center for Ethics and Policy Fellow 
 2019		 Topic: Health Care Justice and Health Access in CA	
@@ -45,7 +45,7 @@ Member, Association for Public Policy Analysis & Management (APPAM)
 	School of Public Policy, UCR
 Responsible for hosting weekly Zoom discussion sessions, grading essays and, exams, as well as maintaining open communication with students and hosting office hours as needed. 
 
-2020 - current 		Research Assistant 
+2020 - Current 		Research Assistant 
 			Inland Center for Sustainable Development, UCR
 			Data collection – Collect qualitative data via interviews, translation, tabulations, transcription of 			data. Data analysis in summary forms. Managing interview schedules with participants and stakeholders. 			Community Outreach. 
 
