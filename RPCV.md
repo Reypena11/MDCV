@@ -28,9 +28,8 @@ Health and health outcome disparities among disadvantaged low social economic st
 ## Research Experience 
 
 `2020-Curent`  
-__University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs,__ *Research Assistant*. 
-
-Under the supervision of Dr. Qingfang Wang.
+__University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs,__ 
+*Research Assistant*. Under the supervision of Dr. Qingfang Wang.
 
 ## Fellowships 
 
