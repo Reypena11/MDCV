@@ -49,7 +49,7 @@ Responsible for hosting weekly Zoom discussion sessions, grading essays and, exa
 			Inland Center for Sustainable Development, UCR
 			Data collection – Collect qualitative data via interviews, translation, tabulations, transcription of 			data. Data analysis in summary forms. Managing interview schedules with participants and stakeholders. 			Community Outreach. 
 
-2020
+2020-
 Teaching Assistant
 School of Public Policy, UCR
 Responsible for hosting weekly Zoom discussion sessions, grading essays and, exams, as well as maintaining open communication with students and hosting office hours as needed. 
