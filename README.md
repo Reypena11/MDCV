@@ -6,18 +6,18 @@ title: RPCV
 # Reyna Peña-Calvillo 
 1815 S Westside Dr Anaheim, CA 92805| 951-310-1224| rpena013@ucr.edu
 
-## Education 
+# Education 
 
 2021  
-# University of California, Riverside, CA
+#### University of California, Riverside, CA
 Master of Public Policy
 
 2019 	
-# California State Polytechnic University, Pomona, CA 
+#### California State Polytechnic University, Pomona, CA 
 Bachelors in Arts, Political Science 
 
 2017	
-# Norco College, Norco, CA 
+#### Norco College, Norco, CA 
 Associates in Social and Behavioral Studies 
 Associates in Political Science 
 
