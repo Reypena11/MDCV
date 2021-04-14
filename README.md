@@ -28,7 +28,8 @@ Health and health outcome disparities among disadvantaged low social economic st
 
 ## Fellowships 
 
-'2020' 	Current Randall Lewis Health & Policy Fellow 
+'2020' 	
+Current Randall Lewis Health & Policy Fellow 
  	
 
 2018- 2019	California Center for Ethics and Policy Fellow 
