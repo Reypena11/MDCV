@@ -1,7 +1,7 @@
 # Reyna Peña-Calvillo 
 1815 S Westside Dr Anaheim, CA 92805| 951-310-1224| rpena013@ucr.edu
 
-### Education 
+## Education 
 
 2021		University of California, Riverside, CA
 		Master of Public Policy 
