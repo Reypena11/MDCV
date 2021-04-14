@@ -9,12 +9,15 @@ title: RPCV
 # Education 
 
 `2021` University of California, Riverside, CA
+
 Master of Public Policy
 
 `2019` California State Polytechnic University, Pomona, CA 
+
 Bachelors in Arts, Political Science 
 
 `2017` Norco College, Norco, CA 
+
 Associates in Social and Behavioral Studies 
 Associates in Political Science 
 
@@ -25,7 +28,8 @@ Health and health outcome disparities among disadvantaged low social economic st
 ## Research Experience 
 
 `2020-Curent`  
-__University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs,__*Research Assistant*. 
+__University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs,__ *Research Assistant*. 
+
 Under the supervision of Dr. Qingfang Wang.
 
 ## Fellowships 
