@@ -24,7 +24,9 @@ Health and health outcome disparities among disadvantaged low social economic st
 
 ## Research Experience 
 
-`2020-Curent`  University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs.Research Assistant. Under the supervision of Dr. Qingfang Wang.
+`2020-Curent`  
+__University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs,__*Research Assistant*. 
+Under the supervision of Dr. Qingfang Wang.
 
 ## Fellowships 
 
@@ -34,6 +36,7 @@ __Randall Lewis Health & Policy Fellow__
 
 `2018- 2019`  
 __California Center for Ethics and Policy Fellow__
+
 Topic: Health Care Justice and Health Access in CA	
 
 ## Professional Memberships
