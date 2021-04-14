@@ -8,7 +8,8 @@ title: RPCV
 
 # Education 
 
-2021 University of California, Riverside, CA
+`2021`
+University of California, Riverside, CA
 Master of Public Policy
 
 2019 California State Polytechnic University, Pomona, CA 
