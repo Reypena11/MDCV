@@ -8,16 +8,15 @@ title: RPCV
 
 ## Education 
 
-'2021'	
-_University of California, Riverside, CA_
-		_Master of Public Policy_ 
+2021    University of California, Riverside, CA
+ 	Master of Public Policy
 
-California State Polytechnic University, Pomona, CA 
-2019		Bachelors in Arts, Political Science 
+2019 	California State Polytechnic University, Pomona, CA 
+	Bachelors in Arts, Political Science 
 
-2017		Norco College, Norco, CA 
-		Associates in Social and Behavioral Studies 
-		Associates in Political Science 
+2017	Norco College, Norco, CA 
+	Associates in Social and Behavioral Studies 
+	Associates in Political Science 
 
 ## Research Interest 
 
@@ -42,15 +41,17 @@ Member, Association for Public Policy Analysis & Management (APPAM)
 
 ## Professional Experience 
 
-2021		Teaching Assistant 
-		School of Public Policy, UCR
+2021	Teaching Assistant 
+	School of Public Policy, UCR
 Responsible for hosting weekly Zoom discussion sessions, grading essays and, exams, as well as maintaining open communication with students and hosting office hours as needed. 
-2020-		Research Assistant 
-current 	Inland Center for Sustainable Development, UCR
-Data collection – Collect qualitative data via interviews, translation, tabulations, transcription of data. Data analysis in summary forms. Managing interview schedules with participants and stakeholders. Community Outreach. 
 
-'2020'	
-Teaching Assistant, School of Public Policy, UCR
+2020 - current 		Research Assistant 
+			Inland Center for Sustainable Development, UCR
+			Data collection – Collect qualitative data via interviews, translation, tabulations, transcription of 			data. Data analysis in summary forms. Managing interview schedules with participants and stakeholders. 			Community Outreach. 
+
+2020
+Teaching Assistant
+School of Public Policy, UCR
 Responsible for hosting weekly Zoom discussion sessions, grading essays and, exams, as well as maintaining open communication with students and hosting office hours as needed. 
 
 
